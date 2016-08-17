@@ -1,2 +1,3 @@
 Den con khi cung hieu duoc GIT
 add: dang ky thay doi trong index.
+pull: Lấy nội dung của remote repository
